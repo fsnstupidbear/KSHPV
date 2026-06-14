@@ -1,0 +1,24 @@
+{
+  "recommended_features": [
+    "height_cm",
+    "flight_frames",
+    "peak_to_landing_frames",
+    "takeoff_mid_arm_raise",
+    "takeoff_mid_leg_forward",
+    "landing_hip_angle",
+    "takeoff_trunk_lean_deg",
+    "weight_kg",
+    "peak_arm_raise",
+    "knee_ext_takeoff_to_peak",
+    "takeoff_mid_hip_angle",
+    "takeoff_mid_kps_conf_mean",
+    "takeoff_knee_angle",
+    "takeoff_mid_trunk_lean_deg",
+    "landing_kps_conf_mean",
+    "landing_knee_angle",
+    "trunk_lean_takeoff_to_landing",
+    "prep_frames",
+    "takeoff_mid_knee_angle",
+    "peak_kps_conf_mean"
+  ]
+}

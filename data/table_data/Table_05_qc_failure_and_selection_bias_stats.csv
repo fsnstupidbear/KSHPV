@@ -1,0 +1,13 @@
+key,value
+n_total,220.0
+missing_indices_rate,0.0
+invalid_kps_rate,0.0
+base_gender_m_ratio,0.6090909090909091
+base_height_mean,172.35454545454544
+base_weight_mean,64.47727272727273
+base_distance_mean,207.77727272727273
+recommended_threshold.recommended_min_phase_conf,0.15
+recommended_threshold.mae_mean,17.505181818181818
+recommended_threshold.r2_mean,0.6402546847262844
+recommended_threshold.keep_ratio,1.0
+recommended_threshold.n_kept,220.0

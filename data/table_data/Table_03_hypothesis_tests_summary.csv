@@ -1,0 +1,4 @@
+hypothesis,test,delta_mae_mean,delta_mae_ci_low,delta_mae_ci_high,delta_mae_ttest_p,delta_mae_perm_p,delta_r2_mean,delta_r2_ci_low,delta_r2_ci_high,delta_r2_ttest_p,delta_r2_perm_p,supported
+H1_phase_alignment_beats_non_phase,"RF GroupShuffleSplit paired (kinematic-only), n=30",5.719543229978162,4.636424716515051,6.860212880925996,1.265397372471911e-11,0.0004997501249375312,0.2888847451255094,0.23029957052573874,0.34203947866132856,1.7109541798575658e-10,0.0004997501249375312,True
+H2_coordination_block_adds_independent_value,"Ridge GroupShuffleSplit paired, n=30",0.6098026042131405,0.21410062097441532,0.9417463262690836,0.0013164366686147344,0.0014992503748125937,0.012428823808123305,-0.0007635233951757405,0.02600540792710679,0.04313172443884541,0.04397801099450275,True
+H3_landing_trunk_control_association,"partial Spearman on landing trunk-control block (two-sided, Holm-corrected)",,,,,,,,,,,True

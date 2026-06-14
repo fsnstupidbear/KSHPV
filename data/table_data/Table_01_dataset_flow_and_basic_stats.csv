@@ -1,0 +1,17 @@
+metric,value,note
+raw_video_rows,324.0,rows in results.csv
+feature_rows,324.0,rows in phase_features.csv
+quality_pass_rows,228.0,rows after quality gate
+clean_rows,210.0,rows after outlier filtering
+clean_ratio_vs_feature,0.6481481481481481,clean/feature
+subject_count_clean,202.0,unique person_uid
+gender_M_rows,107.0,clean rows
+gender_F_rows,103.0,clean rows
+height_cm_mean,170.34285714285716,clean
+height_cm_std,8.158511651756017,clean
+weight_kg_mean,62.91428571428571,clean
+weight_kg_std,11.77753460014827,clean
+distance_cm_min,70.0,clean
+distance_cm_max,297.0,clean
+distance_cm_mean,191.63809523809525,clean
+distance_cm_std,44.95582601849554,clean

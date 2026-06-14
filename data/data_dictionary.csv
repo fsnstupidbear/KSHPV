@@ -1,0 +1,102 @@
+column,description
+participant_id,Anonymized participant identifier used for grouped validation.
+attempt_id,Anonymized attempt/record identifier.
+gender,Participant sex/gender code as used in the analysis.
+height_cm,Participant height in centimeters.
+weight_kg,Participant weight in kilograms.
+distance_cm,Measured standing long jump distance in centimeters.
+entry,Frame index for the corresponding key event or phase anchor.
+takeoff,Frame index for the corresponding key event or phase anchor.
+takeoff_mid,Frame index for the corresponding key event or phase anchor.
+peak,Frame index for the corresponding key event or phase anchor.
+landing_mid,Frame index for the corresponding key event or phase anchor.
+landing,Frame index for the corresponding key event or phase anchor.
+has_all_indices,Derived analysis variable used in KSHPV statistical analyses.
+entry_arm_raise,Pose-derived arm-raise angle/indicator at the corresponding phase anchor.
+entry_leg_forward,Pose-derived leg-forward indicator at the corresponding phase anchor.
+entry_knee_angle,Pose-derived knee angle at the corresponding phase anchor.
+entry_hip_angle,Pose-derived hip angle at the corresponding phase anchor.
+entry_trunk_lean_deg,Pose-derived trunk-lean angle or change indicator.
+entry_trunk_lean_signed_deg,Pose-derived trunk-lean angle or change indicator.
+entry_midhip_x,Derived analysis variable used in KSHPV statistical analyses.
+entry_kps_conf_mean,Mean keypoint confidence at the corresponding phase anchor.
+entry_kps_conf_min,Minimum keypoint confidence at the corresponding phase anchor.
+entry_kps_valid_ratio,Valid-keypoint ratio at the corresponding phase anchor.
+takeoff_arm_raise,Pose-derived arm-raise angle/indicator at the corresponding phase anchor.
+takeoff_leg_forward,Pose-derived leg-forward indicator at the corresponding phase anchor.
+takeoff_knee_angle,Pose-derived knee angle at the corresponding phase anchor.
+takeoff_hip_angle,Pose-derived hip angle at the corresponding phase anchor.
+takeoff_trunk_lean_deg,Pose-derived trunk-lean angle or change indicator.
+takeoff_trunk_lean_signed_deg,Pose-derived trunk-lean angle or change indicator.
+takeoff_midhip_x,Derived analysis variable used in KSHPV statistical analyses.
+takeoff_kps_conf_mean,Mean keypoint confidence at the corresponding phase anchor.
+takeoff_kps_conf_min,Minimum keypoint confidence at the corresponding phase anchor.
+takeoff_kps_valid_ratio,Valid-keypoint ratio at the corresponding phase anchor.
+takeoff_mid_arm_raise,Pose-derived arm-raise angle/indicator at the corresponding phase anchor.
+takeoff_mid_leg_forward,Pose-derived leg-forward indicator at the corresponding phase anchor.
+takeoff_mid_knee_angle,Pose-derived knee angle at the corresponding phase anchor.
+takeoff_mid_hip_angle,Pose-derived hip angle at the corresponding phase anchor.
+takeoff_mid_trunk_lean_deg,Pose-derived trunk-lean angle or change indicator.
+takeoff_mid_trunk_lean_signed_deg,Pose-derived trunk-lean angle or change indicator.
+takeoff_mid_midhip_x,Derived analysis variable used in KSHPV statistical analyses.
+takeoff_mid_kps_conf_mean,Mean keypoint confidence at the corresponding phase anchor.
+takeoff_mid_kps_conf_min,Minimum keypoint confidence at the corresponding phase anchor.
+takeoff_mid_kps_valid_ratio,Valid-keypoint ratio at the corresponding phase anchor.
+peak_arm_raise,Pose-derived arm-raise angle/indicator at the corresponding phase anchor.
+peak_leg_forward,Pose-derived leg-forward indicator at the corresponding phase anchor.
+peak_knee_angle,Pose-derived knee angle at the corresponding phase anchor.
+peak_hip_angle,Pose-derived hip angle at the corresponding phase anchor.
+peak_trunk_lean_deg,Pose-derived trunk-lean angle or change indicator.
+peak_trunk_lean_signed_deg,Pose-derived trunk-lean angle or change indicator.
+peak_midhip_x,Derived analysis variable used in KSHPV statistical analyses.
+peak_kps_conf_mean,Mean keypoint confidence at the corresponding phase anchor.
+peak_kps_conf_min,Minimum keypoint confidence at the corresponding phase anchor.
+peak_kps_valid_ratio,Valid-keypoint ratio at the corresponding phase anchor.
+landing_mid_arm_raise,Pose-derived arm-raise angle/indicator at the corresponding phase anchor.
+landing_mid_leg_forward,Pose-derived leg-forward indicator at the corresponding phase anchor.
+landing_mid_knee_angle,Pose-derived knee angle at the corresponding phase anchor.
+landing_mid_hip_angle,Pose-derived hip angle at the corresponding phase anchor.
+landing_mid_trunk_lean_deg,Pose-derived trunk-lean angle or change indicator.
+landing_mid_trunk_lean_signed_deg,Pose-derived trunk-lean angle or change indicator.
+landing_mid_midhip_x,Derived analysis variable used in KSHPV statistical analyses.
+landing_mid_kps_conf_mean,Mean keypoint confidence at the corresponding phase anchor.
+landing_mid_kps_conf_min,Minimum keypoint confidence at the corresponding phase anchor.
+landing_mid_kps_valid_ratio,Valid-keypoint ratio at the corresponding phase anchor.
+landing_arm_raise,Pose-derived arm-raise angle/indicator at the corresponding phase anchor.
+landing_leg_forward,Pose-derived leg-forward indicator at the corresponding phase anchor.
+landing_knee_angle,Pose-derived knee angle at the corresponding phase anchor.
+landing_hip_angle,Pose-derived hip angle at the corresponding phase anchor.
+landing_trunk_lean_deg,Pose-derived trunk-lean angle or change indicator.
+landing_trunk_lean_signed_deg,Pose-derived trunk-lean angle or change indicator.
+landing_midhip_x,Derived analysis variable used in KSHPV statistical analyses.
+landing_kps_conf_mean,Mean keypoint confidence at the corresponding phase anchor.
+landing_kps_conf_min,Minimum keypoint confidence at the corresponding phase anchor.
+landing_kps_valid_ratio,Valid-keypoint ratio at the corresponding phase anchor.
+has_all_kps_len25,Derived analysis variable used in KSHPV statistical analyses.
+min_phase_conf,Derived analysis variable used in KSHPV statistical analyses.
+prep_frames,Frame-count duration between key events or phase anchors.
+takeoff_to_peak_frames,Frame-count duration between key events or phase anchors.
+peak_to_landing_frames,Frame-count duration between key events or phase anchors.
+flight_frames,Frame-count duration between key events or phase anchors.
+forward_dir_sign,Derived analysis variable used in KSHPV statistical analyses.
+entry_trunk_lean_forward_deg,Pose-derived trunk-lean angle or change indicator.
+entry_backlean_deg,Derived analysis variable used in KSHPV statistical analyses.
+takeoff_trunk_lean_forward_deg,Pose-derived trunk-lean angle or change indicator.
+takeoff_backlean_deg,Derived analysis variable used in KSHPV statistical analyses.
+takeoff_mid_trunk_lean_forward_deg,Pose-derived trunk-lean angle or change indicator.
+takeoff_mid_backlean_deg,Derived analysis variable used in KSHPV statistical analyses.
+peak_trunk_lean_forward_deg,Pose-derived trunk-lean angle or change indicator.
+peak_backlean_deg,Derived analysis variable used in KSHPV statistical analyses.
+landing_mid_trunk_lean_forward_deg,Pose-derived trunk-lean angle or change indicator.
+landing_mid_backlean_deg,Derived analysis variable used in KSHPV statistical analyses.
+landing_trunk_lean_forward_deg,Pose-derived trunk-lean angle or change indicator.
+landing_backlean_deg,Derived analysis variable used in KSHPV statistical analyses.
+knee_ext_takeoff_to_peak,Derived analysis variable used in KSHPV statistical analyses.
+arm_raise_takeoff_to_peak,Derived analysis variable used in KSHPV statistical analyses.
+trunk_lean_takeoff_to_landing,Pose-derived trunk-lean angle or change indicator.
+trunk_lean_signed_takeoff_to_landing,Pose-derived trunk-lean angle or change indicator.
+trunk_lean_forward_takeoff_to_landing,Pose-derived trunk-lean angle or change indicator.
+quality_pass,Quality-control pass indicator used for sensitivity analysis.
+bmi,Body mass index derived from height and weight.
+bmi_group,BMI subgroup label used for robustness analysis.
+distance_level,Jump-distance subgroup label used for descriptive/robustness analysis.

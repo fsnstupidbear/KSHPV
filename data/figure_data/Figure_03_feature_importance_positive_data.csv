@@ -1,0 +1,13 @@
+feature,perm_mae_gain_mean,perm_mae_gain_std,perm_repeats_per_fold,perm_total_estimates,feature_label
+knee_ext_takeoff_to_peak,0.3204341202724913,0.3672432362443137,30,150,Knee extension: takeoff to peak
+takeoff_mid_kps_conf_mean,0.3631479915433392,0.3111072668971847,30,150,Takeoff-mid keypoint confidence
+peak_arm_raise,0.4333426591496344,0.50279761846769,30,150,Peak arm raise
+takeoff_mid_hip_angle,0.4743838383838368,0.5412203538703769,30,150,Takeoff-mid hip angle
+takeoff_trunk_lean_deg,0.9209441038289864,0.4945397622679727,30,150,Takeoff trunk lean (deg)
+takeoff_mid_leg_forward,1.391778470754052,0.8171742554632198,30,150,Takeoff-mid leg forward
+takeoff_mid_arm_raise,1.5798406506929747,0.7198995229059971,30,150,Takeoff-mid arm raise
+weight_kg,1.645818980502701,0.8665666176644384,30,150,Weight (kg)
+peak_to_landing_frames,1.6953184167253916,1.1216822464174847,30,150,Peak to landing frames
+landing_hip_angle,1.7574348602302077,0.808061715679783,30,150,Landing hip angle
+flight_frames,2.328149671129901,1.3655812292434637,30,150,Flight frames
+height_cm,2.6400222104768614,1.2754006313815542,30,150,Height (cm)
